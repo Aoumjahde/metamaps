@@ -24,7 +24,7 @@ Metamaps is developed and maintained by a distributed, nomadic community compris
 
 <!-- markdown hack to split two lists -->
 
-- To send us a personal message get in touch with us via email, Twitter, or Hylo
+- To send us a personal message get in touch with us via email, Twitter, or Hylo.
 - If you would like to report a bug, please check the [issues][contributing-issues] section in our [contributing instructions][contributing].
 - If you would like to get set up as a developer, that's great! Read on for help getting your development environment set up.
 
@@ -32,7 +32,10 @@ Metamaps is developed and maintained by a distributed, nomadic community compris
 
 First off is getting the code downloaded to your computer. You can download a zip file from github, but if you've got `git` you can just run `git clone https://github.com/metamaps/metamaps` in your terminal.
 
-There are instructions for setup on various platforms, with particular support for Mac and Ubuntu, which can be found here:
+You have ability to use the instructions for setup on various platforms!
+
+Mac and Ubuntu ? 
+Of course, we have particular support for any case-platforms also here is how for Mac and Ubuntu:
 - [Mac Install Walkthrough][mac-installation]
 - [Ubuntu Install Walkthrough][ubuntu-installation]
 
